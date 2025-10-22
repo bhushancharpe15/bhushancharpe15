@@ -1,6 +1,6 @@
 <!-- Gradient Header + Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhushan+Charpe;AI+%26+ML+Developer+from+India;Deep+Learning+%7C+Edge+AI+%7C+Web+Dev+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhushan+Charpe" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">💻 Passionate Software Engineer | Machine Learning Developer | Tech Explorer 🚀</h3>
@@ -22,25 +22,6 @@
 🎓 **B.Tech in Computer Engineering** — *Vishwakarma University, Pune (2023 – 2027)*  
 • School of Engineering Sciences | **CGPA: 8.0**
 
-📘 **HSC (Electronics Science)** — N.P. Junior Science College, Amravati — *81%*  
-📗 **SSC** — N.P. Vidyalaya, Amravati — *90%*
-
----
-
-### 💼 Experience  
-
-**🧠 iNeuron Intelligence Pvt Ltd — Deep Learning Project Intern (Nov 2024 – Present)**  
-- Developing an **Automatic Car Parking System** using deep learning  
-- Utilizing **APIs and OPS pipelines** for model training and deployment  
-
-**🏢 Reinvent Design Technologies LLP, Pune — Intern (Jul 2024 – Oct 2024)**  
-- Simulated **building projects** using **IES-VE software**  
-- Designed daylight and suncast models for energy-efficient architectures  
-
-**🤖 Binghamton University x Vishwakarma University — ML Intern (Aug 2024 – Dec 2024)**  
-- Built an **orange disease detection system** using ML algorithms  
-- Created a **dataset of 12,000+ manually labeled images**
-
 ---
 
 ### 🚀 Featured Projects  
@@ -54,24 +35,6 @@
 | 🌐 **BigBuddie Platform** | Dynamic web platform with modern UI and content management |
 | 🔥 **Forest Fire Detection (Award Winner)** | EfficientNetV2 model for real-time fire prediction |
 | 🩺 **Ulcerative Colitis Detection** | Healthcare ML system for early diagnosis and prevention |
-
----
-
-### 🧠 Technical Skills  
-
-**Languages:**  
-`Python` · `C` · `JavaScript` · `SQL` · `Bash`
-
-**Frameworks & Libraries:**  
-`TensorFlow` · `PyTorch` · `Keras` · `Scikit-learn` · `Flask` · `FastAPI` · `OpenCV` · `Mediapipe`
-
-**Tools & Platforms:**  
-`Docker` · `AWS (EC2)` · `Google Cloud` · `Git` · `Jupyter` · `Colab` · `Linux`
-
-**Expertise:**  
-- CNNs · RNNs · Transfer Learning · EfficientNet  
-- Model Quantization & Optimization  
-- Real-Time Deployment using Flask & TensorFlow Serving  
 
 ---
 
