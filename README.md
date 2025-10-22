@@ -43,7 +43,7 @@
 🏅 **Winner — Fusion National Hackathon (AI/ML Domain)**  
 > Won ₹10,000, a trip to Malvan, and Reliance goodies  
 
-🥇 **Best Project Award — Vishwakarma University**  
+🥇 **Best Project Award — Binghamton University**  
 > For “Forest Fire Detection using Machine Learning”  
 
 📘 **Publications**  
