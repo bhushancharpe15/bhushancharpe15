@@ -7,9 +7,8 @@
 
 ---
 
-### 🧠 About Me  
-- 🌱 Currently working as a **Deep Learning Project Intern** at [**iNeuron Intelligence Pvt Ltd**](https://ineuron.ai)  
-- 🏗️ Previously interned at **Reinvent Design Technologies LLP** and **Binghamton University x Vishwakarma University**  
+### 🧠 About Me    
+- 🏗️ Previously interned at **Globatech Limited, Reinvent Design Technologies LLP** and **Binghamton University x Vishwakarma University**  
 - 🤖 Exploring **GenAI**, **Edge AI**, and **Real-time ML Deployment**  
 - 💡 Passionate about building **AI-powered systems** and **intelligent automation**  
 - 💬 Ask me about **Deep Learning**, **Edge Model Deployment**, or **Web Development**  
