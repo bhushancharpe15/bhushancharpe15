@@ -19,7 +19,7 @@
 ### 🎓 Education  
 
 🎓 **B.Tech in Computer Engineering** — *Vishwakarma University, Pune (2023 – 2027)*  
-• School of Engineering Sciences | **CGPA: 8.0**
+• School of Engineering Sciences | **CGPA: 7.7**
 
 ---
 
