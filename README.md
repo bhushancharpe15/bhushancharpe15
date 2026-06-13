@@ -39,6 +39,10 @@
 
 ### 🏆 Achievements  
 
+🏅 **Winner — Globathon Hacakthon Competition**  
+> Won ₹20,000 and secured internship on PPI for winners
+
+> 
 🏅 **Winner — Fusion National Hackathon (AI/ML Domain)**  
 > Won ₹10,000, a trip to Malvan, and Reliance goodies  
 
